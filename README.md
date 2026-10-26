@@ -1,5 +1,3 @@
-# microscope-ai-lab
-
 # Microscope AI Lab
 
 ## About
